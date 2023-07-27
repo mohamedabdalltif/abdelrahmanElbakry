@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068679611266",
+    "project_id": "abdelrahman-elbakry",
+    "storage_bucket": "abdelrahman-elbakry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068679611266:android:c4aa31c083668c1425c59b",
+        "android_client_info": {
+          "package_name": "com.camp.coding.mrabdelrahman.elbakry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068679611266-962v5ggg6lcr52slibee2871n57f5tdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3totN2-LBwJOP3_B60IhNW9YfPZTVFbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068679611266-962v5ggg6lcr52slibee2871n57f5tdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
